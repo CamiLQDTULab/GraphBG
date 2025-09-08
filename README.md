@@ -7,8 +7,8 @@ It integrates **spectral graph convolutions** with a **variational Bayesian Gaus
 
 GraphBG extends to:
 
-* **GraphBG-MS** → for multi-slice analysis with metacell aggregation, batch correction, and joint clustering.
-* **GraphBG-MM** → for multimodal analysis with modality-specific graph embeddings and kernel canonical correlation analysis.
+* **GraphBG-MS** for multi-slice analysis with metacell aggregation, batch correction, and joint clustering.
+* **GraphBG-MM** for multimodal analysis with modality-specific graph embeddings and kernel canonical correlation analysis.
 
 ---
 

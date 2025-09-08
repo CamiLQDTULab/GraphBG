@@ -12,7 +12,7 @@ GraphBG extends to:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * Scalable to datasets with **hundreds of thousands of cells**.
 * Supports **unimodal, multi-slice, and multimodal** ST data.
@@ -22,7 +22,7 @@ GraphBG extends to:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository and install dependencies:
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📘 Usage
+## Usage
 
 ### 1. Unimodal ST analysis
 
@@ -54,10 +54,14 @@ runGraphBG-MS.ipynb
 runGraphBG-MM.ipynb
 ```
 
----
+## Reproducibility
+```python
+GraphBG/reproducible_analysis
+```
 
 
-## 🔗 Citation
+
+## Citation
 
 If you use GraphBG in your research, please cite:
 
@@ -67,7 +71,7 @@ If you use GraphBG in your research, please cite:
 
 ---
 
-## 📜 License
+## License
 
 GraphBG is released under the **BSD 3-Clause License**.
 

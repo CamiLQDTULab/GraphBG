@@ -1,0 +1,2 @@
+Unimodal and multi-slice ST datasets were obtained from Yuan, Z., Zhao, F., Lin, S. et al. Benchmarking spatial clustering methods with spatially resolved transcriptomics data. Nat Methods 21, 712–722 (2024). (https://figshare.com/projects/SDMBench/163942).\\
+Multimodal ST datasets were obtained from Long, Y., Ang, K.S., Sethi, R. et al. Deciphering spatial domains from spatial multi-omics with SpatialGlue. Nat Methods 21, 1658–1667 (2024). (https://github.com/JinmiaoChenLab/SpatialGlue).

@@ -24,7 +24,7 @@ GraphBG extends to:
 
 ## Installation
 
-Clone the repository and install dependencies:
+Clone the repository and install dependencies: Python 3.8.20
 
 ```bash
 git clone git@github.com:CamiLQDTULab/GraphBG.git

@@ -18,7 +18,7 @@ from sklearn.preprocessing import normalize, StandardScaler
 import pandas as pd
 from sklearn import metrics
 import scanpy as sc
-import ot
+# import ot
 from sklearn.decomposition import PCA
 # from GraphST.utils import mclust_R
 # from GraphST.utils import refine_label

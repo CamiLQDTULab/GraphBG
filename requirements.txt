@@ -1,4 +1,4 @@
-scanpy==1.9.1
+scanpy==1.9.8
 anndata==0.9.2
 umap-learn==0.5.7
 numpy==1.24.4
@@ -10,3 +10,4 @@ python-igraph==0.11.8
 pynndescent==0.5.13
 decorator>=4.3.0
 mvlearn
+# python -m pip install --no-deps "scanpy==1.9.8"

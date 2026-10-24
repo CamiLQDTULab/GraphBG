@@ -122,4 +122,4 @@ If you use GraphBG in your research, please cite:
 
 ## License
 
-GraphBG is released under the **BSD 3-Clause License**. See the `LICENSE` file for details.
+GraphBG is released under the **BSD 3-Clause License**. 

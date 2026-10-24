@@ -64,7 +64,6 @@ Check dependency consistency and verify that Scanpy and POT can be imported:
 ```bash
 python -m pip check
 python -c "import scanpy as sc; print('Scanpy:', sc.__version__)"
-python -c "import ot; print('POT:', ot.__version__)"
 ```
 
 Note that `pip check` reports dependency conflicts but does not guarantee that every package can be imported successfully.
